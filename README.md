@@ -6,4 +6,4 @@
 Hi im Terence Stephens and im a  Software Engineering Developer!\
 Currently attending Flatiron School
 
-![linkedin](https://user-images.githubusercontent.com/88994893/148278448-b5168264-4da9-4672-9f0c-99657f8060f4.png)
+![linkedin](https://user-images.githubusercontent.com/88994893/148278448-b5168264-4da9-4672-9f0c-99657f8060f4.png https://www.linkedin.com/in/terence-stephens-7955b4225/)
