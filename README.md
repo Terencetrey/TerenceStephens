@@ -1,9 +1,7 @@
-![computer-software-header](https://user-images.githubusercontent.com/88994893/148278149-886ab63b-69cf-46a9-8fde-134b8353ab83.jpg)
+![download](https://user-images.githubusercontent.com/88994893/148280128-fece80f1-ba27-4357-8823-1c552de44118.jpg)
 
 
 
 
 Hi im Terence Stephens and im a  Software Engineering Developer!\
 Currently attending Flatiron School
-
-![linkedin](https://user-images.githubusercontent.com/88994893/148278448-b5168264-4da9-4672-9f0c-99657f8060f4.png, https://www.linkedin.com/in/terence-stephens-7955b4225/)
