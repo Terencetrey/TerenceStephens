@@ -1,4 +1,4 @@
-👋 My name is Terence Stephens
+HI, my name is Terence Stephens I am currently a student at the Flatiron school where I am studying Software Engineering.
 
 
 
@@ -8,5 +8,4 @@ Skills: REACT / RUBY / RUBY / RAILS / HTML / CSS / JS
 
 
 
-  Software Engineering Developer!
-Currently attending Flatiron School
+ 
