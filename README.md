@@ -1,4 +1,4 @@
-👋, My name is Terence Stephens
+👋 My name is Terence Stephens
 
 
 
