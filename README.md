@@ -1,4 +1,4 @@
-HI, my name is Terence Stephens I am currently a student at the Flatiron school where I am studying Software Engineering.
+HI 👋🏿, my name is Terence Stephens and I am currently a student at the Flatiron school where I am studying Software Engineering.
 
 
 
