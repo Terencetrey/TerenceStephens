@@ -9,4 +9,4 @@ Skills: REACT / RUBY / RUBY / RAILS / HTML / CSS / JS
 
 
  
-![linkedin-logo-black-png-linkedin-icon-black-and-white-11562906557v2906x3pr2](https://user-images.githubusercontent.com/88994893/149679862-09acb772-df0e-4501-9067-5d3675893a6a.png)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/terence-stephens-7955b4225/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Terencetrey)  [<img 
