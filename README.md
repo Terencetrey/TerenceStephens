@@ -1,13 +1,8 @@
-hi, i'm Terence Stephens, a passionate full stack web developer from atlanta. 
-<br/> 
+Hi, i'm Terence Stephens, Full-stack Software Engineer and graduate of the Flatiron School.
+👀 interested in BASKETBALL, CODING, GAMING and MUSIC
+📚 I’m currently learning python
 
-<br/> 
-
-<h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-<br/>
-<br/>
-<br/>
+📫 How to reach me Email: Terences1991@yahoo.com
 
 
 
@@ -15,7 +10,8 @@ hi, i'm Terence Stephens, a passionate full stack web developer from atlanta.
 
 
 
-REACT / RUBY / RUBY / RAILS / HTML / CSS / JS
+
+REACT / HTML / CSS / JS / RUBY / RUBY ON RAILS 
 
 ![hot-job-embedded-software-engineer-header](https://user-images.githubusercontent.com/88994893/149679604-6b91ba0b-e518-4bed-ad28-f892d6f5e334.jpg)
 
