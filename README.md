@@ -1,6 +1,6 @@
 Hi, i'm Terence Stephens, Full-stack Software Engineer and graduate of the Flatiron School.
 - 👀 I’m interested in BASKETBALL, CODING, GAMING and MUSIC
-- 📚 I’m currently learning python
+- 📚 Currently learning python
 
 - 📫  Email: Terences1991@yahoo.com
 
