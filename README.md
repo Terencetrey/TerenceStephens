@@ -1,11 +1,13 @@
 hi, i'm Terence Stephens, a passionate full stack web developer from atlanta. 
 <br/> 
 
+<br/> 
+
 <h2> Github Stats </h2> 
-<a href="https://github.com/Terencetrey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terencetreyi&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
 <br/>
 <br/>
-<br/><br/> 
+<br/>
 
 
 
