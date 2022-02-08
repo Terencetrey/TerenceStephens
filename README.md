@@ -1,4 +1,12 @@
 hi, i'm Terence Stephens, a passionate full stack web developer from atlanta. 
+<br/> 
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/Terencetrey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terencetreyi&layout=compact&theme=tokyonight" /></a>
+<br/>
+<br/>
+<br/><br/> 
+
 
 
 
@@ -13,6 +21,11 @@ REACT / RUBY / RUBY / RAILS / HTML / CSS / JS
 
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/terence-stephens-7955b4225/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Terencetrey)  
+
+
+
+
+
 
 
 
