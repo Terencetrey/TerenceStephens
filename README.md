@@ -1,6 +1,6 @@
 Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of the Flatiron School.
 
-- SKILLS: REACT / HTML / CSS / JS / RUBY / RUBY ON RAILS /SQL
+- SKILLS: REACT / HTML / CSS / JS / RUBY / RUBY ON RAILS / SQL
 
 - 👀 I’m interested in BASKETBALL, CODING, GAMING and MUSIC
 - 📚 Continuing to work with REACT, RUBY ON RAILS and CSS, I will also be learning Python.
