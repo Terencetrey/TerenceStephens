@@ -47,6 +47,7 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/terence-stephens-7955b4225/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Terencetrey)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100077912625290)
 [<img src='https://user-images.githubusercontent.com/88994893/153100010-5b6250dc-5786-459b-a5a5-4c29c634e3aa.png' alt='discord' height='40'>](https://www.twitch.tv/topdollabuttaz)
 
 
