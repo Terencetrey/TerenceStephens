@@ -23,8 +23,7 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 
 
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+
 
 
 
@@ -50,6 +49,10 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100077912625290)
 [<img src='https://user-images.githubusercontent.com/88994893/153100010-5b6250dc-5786-459b-a5a5-4c29c634e3aa.png' alt='discord' height='40'>](https://www.twitch.tv/topdollabuttaz)
 
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
 
 
