@@ -10,10 +10,7 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 
 
 
-
-
-
-
+<img src='https://c.tenor.com/2C7_IN5DMzsAAAAd/typing-thinking.gif'>
 
 
 
