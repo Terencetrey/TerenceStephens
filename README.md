@@ -4,7 +4,9 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 
 - 👀 I’m interested in BASKETBALL, CODING, GAMING, ANIME and MUSIC
 - 📚 Continuing to push pass my limits!
+- 🤝🏿 Colaborate?? Lets do it!
 - 📫  Email: Terences1991@yahoo.com
+
 
 
 
