@@ -45,7 +45,8 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/terence-stephens-7955b4225/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Terencetrey)
-[<img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Ffashionsista.co%2Fdownloadpng%2Fpng%2F20200807%2Fplaystation-free-icon-of-social-media-logos-ii-filled-line.jpg&imgrefurl=https%3A%2F%2Ffashionsista.co%2Fdownloadpng%2Fpng-playstation-free-icon-of-social-media-logos-ii-filled-line-5f8d39b1382fd42fe0430724.html&tbnid=tinlipdA2fscGM&vet=12ahUKEwiJ2pD1q_H1AhWR11MKHcm0A94QMygVegUIARDeAQ..i&docid=r9egAik5XZ16cM&w=512&h=512&q=playstation%20icon%20transparent&ved=2ahUKEwiJ2pD1q_H1AhWR11MKHcm0A94QMygVegUIARDeAQ' alt='playstation' height='40'>](https://github.com/Terencetrey)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svgimg src="https://fashionsista.co/downloadpng/png/20200807/playstation-free-icon-of-social-media-logos-ii-filled-line.jpg">' alt='github' height='40'>]
+
 
 
 
