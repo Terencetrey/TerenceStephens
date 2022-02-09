@@ -2,9 +2,8 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 
 
 
-- 👀 I’m interested in BASKETBALL, CODING, GAMING and MUSIC
-- 📚 Continuing to reach pass my limits!
-
+- 👀 I’m interested in BASKETBALL, CODING, GAMING, ANIME and MUSIC
+- 📚 Continuing to push pass my limits!
 - 📫  Email: Terences1991@yahoo.com
 
 
@@ -46,7 +45,8 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 ### Connect with me:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/terence-stephens-7955b4225/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Terencetrey)
-
+<a href="#"><img alt="PlayStation - PeterTheHan" title="PlayStation - PeterTheHan" height="32" width="32" src="assets/playstation.svg"></a>
+<a href="https://twitch.tv/peterthehan"><img alt="Twitch" height="32" width="32" src="assets/twitch.svg"></a>
 
 
 
