@@ -45,6 +45,7 @@ Hi 👋🏿, i'm Terence Stephens, Full-stack Software Engineer and graduate of 
 
 ### Connect with me:
 [<img align="left" alt="terence | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/terence-stephens-7955b4225/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Terencetrey))
 
 
 
